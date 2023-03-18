@@ -1,0 +1,15 @@
+C:\Users\50242\Desktop\Ejercicios de la Semana\bin\Debug\net6.0\Ejercicios de la Semana.exe
+C:\Users\50242\Desktop\Ejercicios de la Semana\bin\Debug\net6.0\Ejercicios de la Semana.deps.json
+C:\Users\50242\Desktop\Ejercicios de la Semana\bin\Debug\net6.0\Ejercicios de la Semana.runtimeconfig.json
+C:\Users\50242\Desktop\Ejercicios de la Semana\bin\Debug\net6.0\Ejercicios de la Semana.dll
+C:\Users\50242\Desktop\Ejercicios de la Semana\bin\Debug\net6.0\Ejercicios de la Semana.pdb
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.csproj.AssemblyReference.cache
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.AssemblyInfoInputs.cache
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.AssemblyInfo.cs
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.csproj.CoreCompileInputs.cache
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.dll
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\refint\Ejercicios de la Semana.dll
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.pdb
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\Ejercicios de la Semana.genruntimeconfig.cache
+C:\Users\50242\Desktop\Ejercicios de la Semana\obj\Debug\net6.0\ref\Ejercicios de la Semana.dll
